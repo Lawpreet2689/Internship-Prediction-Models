@@ -1,7 +1,6 @@
 """
 car_color_detection_app.py
 ==========================
-Single-file version of the Car Color Detection & Traffic Counter app.
 
 What it does:
 - Detects cars and people in a traffic image (YOLOv8 via `ultralytics`)
